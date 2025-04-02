@@ -3,7 +3,7 @@
 </p>
 
 
-# 👨🏻‍💻 Ronaldo Carvalho  
+# 🧑🏻‍💻 Ronaldo Carvalho  
    `Desenvolvedora Full Stack` 
    <br><br>
 
