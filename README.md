@@ -28,10 +28,10 @@ Sou um Desenvolvedor Full Stack com especialização em Front-End, atualmente cu
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="Nodejs"
+    title="Nodejs" 
     width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 <img 
     alt="React"
