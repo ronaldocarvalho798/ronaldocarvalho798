@@ -1,5 +1,5 @@
 <img 
-    src="https://i.ibb.co/7dfzv1D1/Chat-GPT-Image-2-de-abr-de-2025-16-03-16.png" 
+    src="https://i.ibb.co/7dfzv1D1/Chat-GPT-Image-2-de-abr-de-2025-16-03-16.png" width="800px" 
 />
 
 <p align="center">
