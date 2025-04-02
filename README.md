@@ -1,4 +1,4 @@
-![programming_resized_1024x350](https://github.com/user-attachments/assets/c7725bb1-864b-42df-b7f4-b72dae672998)
+![programming_resized_1024x350](https://ronaldocarvalho.netlify.app/assets/images/avatarr.png)
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=81A1F7&width=495&lines=Sejam+bem+vindos.+;Eu+sou+o+Ronaldo%2C+prazer!;E+voc%C3%AA+como+se+chama%3F" alt="Typing SVG" /></a>
