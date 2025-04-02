@@ -1,4 +1,4 @@
-(https://i.ibb.co/7dfzv1D1/Chat-GPT-Image-2-de-abr-de-2025-16-03-16.png)
+![programming_resized_792x528](https://i.ibb.co/7dfzv1D1/Chat-GPT-Image-2-de-abr-de-2025-16-03-16.png)
 
 
 <p align="center">
