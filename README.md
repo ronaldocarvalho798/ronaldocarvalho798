@@ -45,5 +45,11 @@ Sou um Desenvolvedor Full Stack com especialização em Front-End, atualmente cu
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" 
 />
+<img 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 </p>
 
