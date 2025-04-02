@@ -1,6 +1,4 @@
-<img 
-    src="https://i.ibb.co/7dfzv1D1/Chat-GPT-Image-2-de-abr-de-2025-16-03-16.png" width="800px" height="600px" 
-/>
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://i.ibb.co/7dfzv1D1/Chat-GPT-Image-2-de-abr-de-2025-16-03-16.png" width="792" height="528">
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=81A1F7&width=495&lines=Sejam+bem+vindos.+;Eu+sou+o+Ronaldo%2C+prazer!;E+voc%C3%AA+como+se+chama%3F" alt="Typing SVG" /></a>
