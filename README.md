@@ -3,6 +3,10 @@
 </p>
 
 
+# 👨🏻‍💻 Ronaldo Carvalho  
+   `Desenvolvedora Full Stack` 
+   <br><br>
+
 Sou um Desenvolvedor Full Stack com especialização em Front-End, atualmente cursando Análise e Desenvolvimento de Sistemas e concluindo formação de Programador Web na IFRS Ciência e Tecnologia.
 
 ### Vamos conectar ? Me siga ou se preferir mande mensagem! 
