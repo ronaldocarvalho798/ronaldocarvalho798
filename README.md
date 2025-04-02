@@ -1,4 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=81A1F7&width=435&lines=Sejam+bem+vindos.+;Eu+sou+o+Ronaldo%2C+prazer!;E+voc%C3%AA+como+se+chama%3F" alt="Typing SVG" /></a>
+
+
+
 Sou um Desenvolvedor Full Stack com especialização em Front-End, atualmente cursando Análise e Desenvolvimento de Sistemas e concluindo formação de Programador Web na IFRS Ciência e Tecnologia.
 
 ### Vamos conectar ? Me siga ou se preferir mande mensagem! 
