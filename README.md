@@ -23,3 +23,82 @@ Sou um Desenvolvedor Full Stack com especialização em Front-End, atualmente cu
 </table>
 </div>
 
+<p align="center">
+🤖 Linguagens e Tecnologias<br><br>
+</p>
+</p>
+<p align="center">
+<img 
+    alt="HTML" 
+    title="HTML" 
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    alt="React"
+    title="React" 
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    alt="C++" 
+    title="C++"
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+/>
+<img 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    alt="Unity" 
+    title="Unity"
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" 
+/>
+<img 
+    alt="Visual Studio Code" 
+    title="Visual Studio Code"
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" 
+/>
+</p>
+
